@@ -1,0 +1,1247 @@
+{
+  "data": [
+    [
+      [
+        1,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        1.4086663786102742,
+        9.080139398574829,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114299.5377936,
+        1645114308.7370434,
+        {
+          "val_acc": 0.37254903217156726,
+          "val_precision": 0.17187500772455025
+        }
+      ]
+    ],
+    [
+      [
+        2,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        2.8705267691144756,
+        6.270063877105713,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114308.7385273,
+        1645114315.1291866,
+        {
+          "val_acc": 0.1539215639964038,
+          "val_precision": 0.009577876001902174
+        }
+      ]
+    ],
+    [
+      [
+        3,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        2.8334122414682423,
+        6.78062105178833,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114315.1304383,
+        1645114322.033571,
+        {
+          "val_acc": 0.2019607795511975,
+          "val_precision": 0.003460207612456747
+        }
+      ]
+    ],
+    [
+      [
+        4,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        2.0600633798861034,
+        7.068643093109131,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114322.0344646,
+        1645114329.2761033,
+        {
+          "val_acc": 0.6205882430076599,
+          "val_precision": 0.3186120948621734
+        }
+      ]
+    ],
+    [
+      [
+        5,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        1.0652831123155706,
+        6.3016438484191895,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114329.2774994,
+        1645114335.7293415,
+        {
+          "val_acc": 0.8137254503427767,
+          "val_precision": 0.4729375233815412
+        }
+      ]
+    ],
+    [
+      [
+        6,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        2.8533778171913298,
+        6.190607309341431,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114335.7309573,
+        1645114342.0382998,
+        {
+          "val_acc": 0.1764705926179886,
+          "val_precision": 0.003477422575702801
+        }
+      ]
+    ],
+    [
+      [
+        7,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        2.5803584725249045,
+        5.778869152069092,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114342.039229,
+        1645114347.942647,
+        {
+          "val_acc": 0.3911764723413131,
+          "val_precision": 0.07268039070088908
+        }
+      ]
+    ],
+    [
+      [
+        8,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        2.738428707683788,
+        6.106237888336182,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114347.9436226,
+        1645114354.174062,
+        {
+          "val_acc": 0.327450980304503,
+          "val_precision": 0.07028498969398973
+        }
+      ]
+    ],
+    [
+      [
+        9,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        1.6652897840621426,
+        6.936733245849609,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114354.1752036,
+        1645114361.2327018,
+        {
+          "val_acc": 0.5803921388644798,
+          "val_precision": 0.34230772907671647
+        }
+      ]
+    ],
+    [
+      [
+        5,
+        null,
+        996406378,
+        16.666666666666664
+      ],
+      [
+        0.22531306649393892,
+        12.221543312072754,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114361.2340074,
+        1645114373.576756,
+        {
+          "val_acc": 0.9186274117114497,
+          "val_precision": 0.5746564450935105
+        }
+      ]
+    ],
+    [
+      [
+        1,
+        null,
+        996406378,
+        16.666666666666664
+      ],
+      [
+        0.2318326616842373,
+        21.20096516609192,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114373.5776248,
+        1645114394.9018939,
+        {
+          "val_acc": 0.80196080605189,
+          "val_precision": 0.702883079838033
+        }
+      ]
+    ],
+    [
+      [
+        9,
+        null,
+        996406378,
+        16.666666666666664
+      ],
+      [
+        0.5120028743849081,
+        15.5273597240448,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114394.9028018,
+        1645114410.5517683,
+        {
+          "val_acc": 0.8754901807682187,
+          "val_precision": 0.5247141096245688
+        }
+      ]
+    ],
+    [
+      [
+        5,
+        null,
+        996406378,
+        50.0
+      ],
+      [
+        0.01502478944055517,
+        32.013989210128784,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114410.5530689,
+        1645114442.685144,
+        {
+          "val_acc": 0.9205882033881019,
+          "val_precision": 0.6096856271481662
+        }
+      ]
+    ],
+    [
+      [
+        10,
+        null,
+        996406378,
+        16.666666666666664
+      ],
+      [
+        2.3858230027497984,
+        12.044118165969849,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114442.686626,
+        1645114454.863026,
+        {
+          "val_acc": 0.4450980233466801,
+          "val_precision": 0.11094883105077798
+        }
+      ]
+    ],
+    [
+      [
+        11,
+        null,
+        996406378,
+        16.666666666666664
+      ],
+      [
+        0.09384142414429318,
+        15.490607023239136,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114454.8640678,
+        1645114470.4777124,
+        {
+          "val_acc": 0.843137264251709,
+          "val_precision": 0.7201284661879098
+        }
+      ]
+    ],
+    [
+      [
+        12,
+        null,
+        996406378,
+        16.666666666666664
+      ],
+      [
+        1.5378011530520868,
+        12.953548431396484,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114470.4787774,
+        1645114483.5534418,
+        {
+          "val_acc": 0.7382352976238026,
+          "val_precision": 0.20829628635626907
+        }
+      ]
+    ],
+    [
+      [
+        11,
+        null,
+        996406378,
+        50.0
+      ],
+      [
+        0.0007570353516961869,
+        41.409170627593994,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114483.5548398,
+        1645114525.1436923,
+        {
+          "val_acc": 0.9313725630442301,
+          "val_precision": 0.7812297561159006
+        }
+      ]
+    ],
+    [
+      [
+        13,
+        null,
+        996406378,
+        50.0
+      ],
+      [
+        0.001779959774941352,
+        56.467331886291504,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114525.1468554,
+        1645114581.7482688,
+        {
+          "val_acc": 0.9107843118555405,
+          "val_precision": 0.30471327414676
+        }
+      ]
+    ],
+    [
+      [
+        14,
+        null,
+        996406378,
+        50.0
+      ],
+      [
+        0.012218748824670911,
+        32.57527542114258,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114581.749611,
+        1645114614.4540305,
+        {
+          "val_acc": 0.9205882549285889,
+          "val_precision": 0.7777649333902122
+        }
+      ]
+    ],
+    [
+      [
+        15,
+        null,
+        996406378,
+        50.0
+      ],
+      [
+        0.022847516684537276,
+        31.907893896102905,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114614.4552162,
+        1645114646.4908314,
+        {
+          "val_acc": 0.887254868067947,
+          "val_precision": 0.5567939299612257
+        }
+      ]
+    ],
+    [
+      [
+        16,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        2.525756896944607,
+        5.993765115737915,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114646.4925869,
+        1645114652.609425,
+        {
+          "val_acc": 0.38627450115175227,
+          "val_precision": 0.15465093201085126
+        }
+      ]
+    ],
+    [
+      [
+        17,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        2.8357116306529324,
+        12.9073805809021,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114652.6122923,
+        1645114665.6413193,
+        {
+          "val_acc": 0.17941176891326904,
+          "val_precision": 0.0034739385950458613
+        }
+      ]
+    ],
+    [
+      [
+        18,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        2.90311055837893,
+        6.239256858825684,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114665.6437945,
+        1645114672.0086076,
+        {
+          "val_acc": 0.1764705926179886,
+          "val_precision": 0.003460207612456747
+        }
+      ]
+    ],
+    [
+      [
+        19,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        2.84070582483329,
+        6.408915281295776,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114672.0112376,
+        1645114678.5480683,
+        {
+          "val_acc": 0.1921568638225104,
+          "val_precision": 0.010563609738676184
+        }
+      ]
+    ],
+    [
+      [
+        20,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        1.8409433077363406,
+        7.2753355503082275,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114678.5506406,
+        1645114685.9483283,
+        {
+          "val_acc": 0.6784313561869603,
+          "val_precision": 0.3313715490518853
+        }
+      ]
+    ],
+    [
+      [
+        21,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        2.8146191594647427,
+        6.305100202560425,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114685.9511554,
+        1645114692.4145827,
+        {
+          "val_acc": 0.21176469643034188,
+          "val_precision": 0.014062543372105385
+        }
+      ]
+    ],
+    [
+      [
+        22,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        2.8366535392462033,
+        6.41548228263855,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114692.4184523,
+        1645114699.0076916,
+        {
+          "val_acc": 0.24411765237649283,
+          "val_precision": 0.01614892242020163
+        }
+      ]
+    ],
+    [
+      [
+        23,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        1.9797317899909672,
+        6.1063148975372314,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114699.0117667,
+        1645114705.293595,
+        {
+          "val_acc": 0.6362744879488852,
+          "val_precision": 0.2893453218901534
+        }
+      ]
+    ],
+    [
+      [
+        24,
+        null,
+        996406378,
+        5.555555555555555
+      ],
+      [
+        2.8429806634491563,
+        6.02038049697876,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114706.4350615,
+        1645114712.585387,
+        {
+          "val_acc": 0.17745098039215687,
+          "val_precision": 0.012008762540419505
+        }
+      ]
+    ],
+    [
+      [
+        20,
+        null,
+        996406378,
+        16.666666666666664
+      ],
+      [
+        1.082738681809575,
+        15.078478336334229,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114712.5872295,
+        1645114727.7904315,
+        {
+          "val_acc": 0.824509780780942,
+          "val_precision": 0.45303735824815944
+        }
+      ]
+    ],
+    [
+      [
+        23,
+        null,
+        996406378,
+        16.666666666666664
+      ],
+      [
+        1.3473761652030198,
+        12.97447419166565,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114727.7916331,
+        1645114740.8878314,
+        {
+          "val_acc": 0.7882352788074344,
+          "val_precision": 0.3987549334969276
+        }
+      ]
+    ],
+    [
+      [
+        16,
+        null,
+        996406378,
+        16.666666666666664
+      ],
+      [
+        1.8302374689018024,
+        12.687182664871216,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114740.889065,
+        1645114753.7051468,
+        {
+          "val_acc": 0.6921568512624385,
+          "val_precision": 0.3368225423778881
+        }
+      ]
+    ],
+    [
+      [
+        20,
+        null,
+        996406378,
+        50.0
+      ],
+      [
+        0.253270116472142,
+        40.37763524055481,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114753.7065966,
+        1645114794.2102592,
+        {
+          "val_acc": 0.9088235061542661,
+          "val_precision": 0.5557205601921275
+        }
+      ]
+    ],
+    [
+      [
+        25,
+        null,
+        996406378,
+        16.666666666666664
+      ],
+      [
+        0.30124346959934223,
+        46.362505197525024,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114795.2426043,
+        1645114841.7336304,
+        {
+          "val_acc": 0.8392156607964459,
+          "val_precision": 0.5293564236157801
+        }
+      ]
+    ],
+    [
+      [
+        26,
+        null,
+        996406378,
+        16.666666666666664
+      ],
+      [
+        1.3028419940202844,
+        50.830241203308105,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114842.7680967,
+        1645114893.7766638,
+        {
+          "val_acc": 0.7441176243272483,
+          "val_precision": 0.403706016756989
+        }
+      ]
+    ],
+    [
+      [
+        27,
+        null,
+        996406378,
+        16.666666666666664
+      ],
+      [
+        2147483647.0,
+        4.977176666259766,
+        {
+          "__enum__": "StatusType.CRASHED"
+        },
+        1645114895.2360241,
+        1645114900.2454407,
+        {}
+      ]
+    ],
+    [
+      [
+        25,
+        null,
+        996406378,
+        50.0
+      ],
+      [
+        0.02156312241100286,
+        133.62507605552673,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645114900.2480345,
+        1645115034.0526698,
+        {
+          "val_acc": 0.933333305868448,
+          "val_precision": 0.5912524968510594
+        }
+      ]
+    ],
+    [
+      [
+        28,
+        null,
+        996406378,
+        50.0
+      ],
+      [
+        0.32211275339199635,
+        249.82061553001404,
+        {
+          "__enum__": "StatusType.SUCCESS"
+        },
+        1645115035.240133,
+        1645115285.237099,
+        {
+          "val_acc": 0.8990196188290914,
+          "val_precision": 0.700714564547824
+        }
+      ]
+    ]
+  ],
+  "config_origins": {
+    "1": "Random initial design.",
+    "2": "Random initial design.",
+    "3": "Random initial design.",
+    "4": "Random initial design.",
+    "5": "Random initial design.",
+    "6": "Random initial design.",
+    "7": "Random initial design.",
+    "8": "Random initial design.",
+    "9": "Random initial design.",
+    "10": "Random initial design.",
+    "11": "Random initial design.",
+    "12": "Random initial design.",
+    "13": "Random initial design.",
+    "14": "Random initial design.",
+    "15": "Random initial design.",
+    "16": "Random initial design.",
+    "17": "Random Search",
+    "18": "Random Search",
+    "19": "Random Search",
+    "20": "Random Search",
+    "21": "Random Search",
+    "22": "Random Search",
+    "23": "Random Search",
+    "24": "Local Search",
+    "25": "Local Search",
+    "26": "Local Search",
+    "27": "Local Search",
+    "28": "Local Search"
+  },
+  "configs": {
+    "1": {
+      "batch_size": 512,
+      "dropout_rate": 0.08016980640666257,
+      "global_avg_pooling": false,
+      "kernal_size": 3,
+      "learning_rate": 0.016653917836732438,
+      "n_channels_conv_2": 572,
+      "n_channels_fc_2": 160,
+      "n_conv_layers": 3,
+      "n_fc_layers": 3,
+      "optimizer": "Adam",
+      "use_BN": true,
+      "n_channels_conv_0": 15,
+      "n_channels_conv_1": 231,
+      "n_channels_fc_0": 71,
+      "n_channels_fc_1": 14
+    },
+    "2": {
+      "batch_size": 282,
+      "dropout_rate": 0.7253369808207899,
+      "global_avg_pooling": true,
+      "kernal_size": 2,
+      "learning_rate": 8.497121267634955e-05,
+      "n_channels_conv_2": 481,
+      "n_channels_fc_2": 25,
+      "n_conv_layers": 1,
+      "n_fc_layers": 1,
+      "optimizer": "SGD",
+      "use_BN": true,
+      "sgd_momentum": 0.22962425340491263
+    },
+    "3": {
+      "batch_size": 282,
+      "dropout_rate": 0.4698138446694055,
+      "global_avg_pooling": true,
+      "kernal_size": 2,
+      "learning_rate": 0.0012391928395743266,
+      "n_channels_conv_2": 16,
+      "n_channels_fc_2": 1779,
+      "n_conv_layers": 1,
+      "n_fc_layers": 3,
+      "optimizer": "SGD",
+      "use_BN": false,
+      "n_channels_fc_0": 428,
+      "n_channels_fc_1": 2029,
+      "sgd_momentum": 0.7374971438579951
+    },
+    "4": {
+      "batch_size": 512,
+      "dropout_rate": 0.07235104437759886,
+      "global_avg_pooling": false,
+      "kernal_size": 2,
+      "learning_rate": 0.03259546512750991,
+      "n_channels_conv_2": 5,
+      "n_channels_fc_2": 87,
+      "n_conv_layers": 2,
+      "n_fc_layers": 1,
+      "optimizer": "Adam",
+      "use_BN": false,
+      "n_channels_conv_0": 54
+    },
+    "5": {
+      "batch_size": 282,
+      "dropout_rate": 0.4903178329534493,
+      "global_avg_pooling": false,
+      "kernal_size": 2,
+      "learning_rate": 8.798712605418182e-06,
+      "n_channels_conv_2": 17,
+      "n_channels_fc_2": 1834,
+      "n_conv_layers": 1,
+      "n_fc_layers": 1,
+      "optimizer": "AdamW",
+      "use_BN": true
+    },
+    "6": {
+      "batch_size": 512,
+      "dropout_rate": 0.1633070669047195,
+      "global_avg_pooling": true,
+      "kernal_size": 2,
+      "learning_rate": 5.028441789017154e-06,
+      "n_channels_conv_2": 17,
+      "n_channels_fc_2": 119,
+      "n_conv_layers": 1,
+      "n_fc_layers": 2,
+      "optimizer": "SGD",
+      "use_BN": true,
+      "n_channels_fc_0": 16,
+      "sgd_momentum": 0.9269479977255463
+    },
+    "7": {
+      "batch_size": 128,
+      "dropout_rate": 0.027932494220368566,
+      "global_avg_pooling": true,
+      "kernal_size": 4,
+      "learning_rate": 2.860920411264689e-06,
+      "n_channels_conv_2": 106,
+      "n_channels_fc_2": 62,
+      "n_conv_layers": 1,
+      "n_fc_layers": 1,
+      "optimizer": "Adam",
+      "use_BN": false
+    },
+    "8": {
+      "batch_size": 128,
+      "dropout_rate": 0.4793687336449053,
+      "global_avg_pooling": false,
+      "kernal_size": 3,
+      "learning_rate": 0.009864965109961845,
+      "n_channels_conv_2": 8,
+      "n_channels_fc_2": 12,
+      "n_conv_layers": 2,
+      "n_fc_layers": 1,
+      "optimizer": "SGD",
+      "use_BN": true,
+      "n_channels_conv_0": 14,
+      "sgd_momentum": 0.047904064781847326
+    },
+    "9": {
+      "batch_size": 282,
+      "dropout_rate": 0.629676983210243,
+      "global_avg_pooling": false,
+      "kernal_size": 2,
+      "learning_rate": 0.036091166727441476,
+      "n_channels_conv_2": 18,
+      "n_channels_fc_2": 261,
+      "n_conv_layers": 3,
+      "n_fc_layers": 1,
+      "optimizer": "Adam",
+      "use_BN": true,
+      "n_channels_conv_0": 160,
+      "n_channels_conv_1": 7
+    },
+    "10": {
+      "batch_size": 282,
+      "dropout_rate": 0.6198337378973174,
+      "global_avg_pooling": true,
+      "kernal_size": 2,
+      "learning_rate": 0.0016611329716696064,
+      "n_channels_conv_2": 726,
+      "n_channels_fc_2": 94,
+      "n_conv_layers": 2,
+      "n_fc_layers": 1,
+      "optimizer": "Adam",
+      "use_BN": false,
+      "n_channels_conv_0": 9
+    },
+    "11": {
+      "batch_size": 512,
+      "dropout_rate": 0.28810783344353635,
+      "global_avg_pooling": false,
+      "kernal_size": 2,
+      "learning_rate": 0.13804660685256015,
+      "n_channels_conv_2": 88,
+      "n_channels_fc_2": 5,
+      "n_conv_layers": 3,
+      "n_fc_layers": 1,
+      "optimizer": "Adam",
+      "use_BN": true,
+      "n_channels_conv_0": 186,
+      "n_channels_conv_1": 16
+    },
+    "12": {
+      "batch_size": 128,
+      "dropout_rate": 0.2851611415662123,
+      "global_avg_pooling": true,
+      "kernal_size": 2,
+      "learning_rate": 0.00042191719484936365,
+      "n_channels_conv_2": 17,
+      "n_channels_fc_2": 45,
+      "n_conv_layers": 2,
+      "n_fc_layers": 3,
+      "optimizer": "Adam",
+      "use_BN": true,
+      "n_channels_conv_0": 11,
+      "n_channels_fc_0": 49,
+      "n_channels_fc_1": 487
+    },
+    "13": {
+      "batch_size": 128,
+      "dropout_rate": 0.20312316750433998,
+      "global_avg_pooling": true,
+      "kernal_size": 3,
+      "learning_rate": 0.6765053033160295,
+      "n_channels_conv_2": 11,
+      "n_channels_fc_2": 411,
+      "n_conv_layers": 3,
+      "n_fc_layers": 1,
+      "optimizer": "AdamW",
+      "use_BN": true,
+      "n_channels_conv_0": 133,
+      "n_channels_conv_1": 229
+    },
+    "14": {
+      "batch_size": 512,
+      "dropout_rate": 0.29604689266738443,
+      "global_avg_pooling": false,
+      "kernal_size": 5,
+      "learning_rate": 1.4176144652119501e-06,
+      "n_channels_conv_2": 155,
+      "n_channels_fc_2": 4,
+      "n_conv_layers": 1,
+      "n_fc_layers": 1,
+      "optimizer": "AdamW",
+      "use_BN": true
+    },
+    "15": {
+      "batch_size": 282,
+      "dropout_rate": 0.43799860659777595,
+      "global_avg_pooling": false,
+      "kernal_size": 4,
+      "learning_rate": 4.332253250991695e-05,
+      "n_channels_conv_2": 17,
+      "n_channels_fc_2": 1456,
+      "n_conv_layers": 3,
+      "n_fc_layers": 1,
+      "optimizer": "AdamW",
+      "use_BN": true,
+      "n_channels_conv_0": 6,
+      "n_channels_conv_1": 14
+    },
+    "16": {
+      "batch_size": 282,
+      "dropout_rate": 0.3501976413938001,
+      "global_avg_pooling": false,
+      "kernal_size": 2,
+      "learning_rate": 8.666039362669802e-05,
+      "n_channels_conv_2": 60,
+      "n_channels_fc_2": 18,
+      "n_conv_layers": 2,
+      "n_fc_layers": 2,
+      "optimizer": "AdamW",
+      "use_BN": true,
+      "n_channels_conv_0": 12,
+      "n_channels_fc_0": 36
+    },
+    "17": {
+      "batch_size": 512,
+      "dropout_rate": 0.7570584648362542,
+      "global_avg_pooling": false,
+      "kernal_size": 5,
+      "learning_rate": 1.4464643546279975e-05,
+      "n_channels_conv_2": 580,
+      "n_channels_fc_2": 84,
+      "n_conv_layers": 3,
+      "n_fc_layers": 3,
+      "optimizer": "AdamW",
+      "use_BN": false,
+      "n_channels_conv_0": 472,
+      "n_channels_conv_1": 170,
+      "n_channels_fc_0": 933,
+      "n_channels_fc_1": 473
+    },
+    "18": {
+      "batch_size": 512,
+      "dropout_rate": 0.8875732493209225,
+      "global_avg_pooling": true,
+      "kernal_size": 2,
+      "learning_rate": 9.272658771401298e-06,
+      "n_channels_conv_2": 18,
+      "n_channels_fc_2": 892,
+      "n_conv_layers": 2,
+      "n_fc_layers": 3,
+      "optimizer": "SGD",
+      "use_BN": false,
+      "n_channels_conv_0": 4,
+      "n_channels_fc_0": 353,
+      "n_channels_fc_1": 34,
+      "sgd_momentum": 0.8562218727046528
+    },
+    "19": {
+      "batch_size": 282,
+      "dropout_rate": 0.23397108409637438,
+      "global_avg_pooling": true,
+      "kernal_size": 3,
+      "learning_rate": 0.020362754060949832,
+      "n_channels_conv_2": 20,
+      "n_channels_fc_2": 64,
+      "n_conv_layers": 2,
+      "n_fc_layers": 2,
+      "optimizer": "Adam",
+      "use_BN": false,
+      "n_channels_conv_0": 4,
+      "n_channels_fc_0": 22
+    },
+    "20": {
+      "batch_size": 282,
+      "dropout_rate": 0.0404014210010584,
+      "global_avg_pooling": false,
+      "kernal_size": 4,
+      "learning_rate": 1.2789697203183864e-05,
+      "n_channels_conv_2": 643,
+      "n_channels_fc_2": 538,
+      "n_conv_layers": 2,
+      "n_fc_layers": 1,
+      "optimizer": "Adam",
+      "use_BN": false,
+      "n_channels_conv_0": 73
+    },
+    "21": {
+      "batch_size": 282,
+      "dropout_rate": 0.4381020208642842,
+      "global_avg_pooling": true,
+      "kernal_size": 5,
+      "learning_rate": 0.8405189740686021,
+      "n_channels_conv_2": 5,
+      "n_channels_fc_2": 56,
+      "n_conv_layers": 2,
+      "n_fc_layers": 1,
+      "optimizer": "SGD",
+      "use_BN": true,
+      "n_channels_conv_0": 5,
+      "sgd_momentum": 0.6885010102607454
+    },
+    "22": {
+      "batch_size": 512,
+      "dropout_rate": 0.5658116951443593,
+      "global_avg_pooling": true,
+      "kernal_size": 2,
+      "learning_rate": 4.070955570649258e-06,
+      "n_channels_conv_2": 9,
+      "n_channels_fc_2": 291,
+      "n_conv_layers": 2,
+      "n_fc_layers": 2,
+      "optimizer": "SGD",
+      "use_BN": true,
+      "n_channels_conv_0": 6,
+      "n_channels_fc_0": 1136,
+      "sgd_momentum": 0.8623231633386678
+    },
+    "23": {
+      "batch_size": 282,
+      "dropout_rate": 0.07162506123652106,
+      "global_avg_pooling": false,
+      "kernal_size": 2,
+      "learning_rate": 0.00011357540707653671,
+      "n_channels_conv_2": 58,
+      "n_channels_fc_2": 564,
+      "n_conv_layers": 1,
+      "n_fc_layers": 1,
+      "optimizer": "AdamW",
+      "use_BN": false
+    },
+    "24": {
+      "batch_size": 128,
+      "dropout_rate": 0.8832629431342122,
+      "global_avg_pooling": false,
+      "kernal_size": 5,
+      "learning_rate": 5.510234787458826e-06,
+      "n_channels_conv_2": 23,
+      "n_channels_fc_2": 2035,
+      "n_conv_layers": 1,
+      "n_fc_layers": 2,
+      "optimizer": "Adam",
+      "use_BN": true,
+      "n_channels_fc_0": 44
+    },
+    "25": {
+      "batch_size": 282,
+      "dropout_rate": 0.4201279445763386,
+      "global_avg_pooling": false,
+      "kernal_size": 3,
+      "learning_rate": 7.3694803440083325e-06,
+      "n_channels_conv_2": 4,
+      "n_channels_fc_2": 1812,
+      "n_conv_layers": 2,
+      "n_fc_layers": 1,
+      "optimizer": "AdamW",
+      "use_BN": true,
+      "n_channels_conv_0": 457
+    },
+    "26": {
+      "batch_size": 282,
+      "dropout_rate": 0.8904072168208892,
+      "global_avg_pooling": false,
+      "kernal_size": 4,
+      "learning_rate": 9.435977066620859e-06,
+      "n_channels_conv_2": 13,
+      "n_channels_fc_2": 1943,
+      "n_conv_layers": 3,
+      "n_fc_layers": 1,
+      "optimizer": "AdamW",
+      "use_BN": true,
+      "n_channels_conv_0": 457,
+      "n_channels_conv_1": 923
+    },
+    "27": {
+      "batch_size": 512,
+      "dropout_rate": 0.04331067144894428,
+      "global_avg_pooling": false,
+      "kernal_size": 4,
+      "learning_rate": 0.038877363827615904,
+      "n_channels_conv_2": 12,
+      "n_channels_fc_2": 1956,
+      "n_conv_layers": 3,
+      "n_fc_layers": 2,
+      "optimizer": "Adam",
+      "use_BN": true,
+      "n_channels_conv_0": 945,
+      "n_channels_conv_1": 688,
+      "n_channels_fc_0": 19
+    },
+    "28": {
+      "batch_size": 512,
+      "dropout_rate": 0.12539719673724303,
+      "global_avg_pooling": false,
+      "kernal_size": 3,
+      "learning_rate": 0.04123051979412208,
+      "n_channels_conv_2": 10,
+      "n_channels_fc_2": 1526,
+      "n_conv_layers": 3,
+      "n_fc_layers": 1,
+      "optimizer": "AdamW",
+      "use_BN": false,
+      "n_channels_conv_0": 859,
+      "n_channels_conv_1": 673
+    }
+  }
+}

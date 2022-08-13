@@ -1,0 +1,3 @@
+{"model_size": 4876861, "test_accuracy": 0.21470587604186114, "test_precision": 0.023939408064567416, "data_subset": 1}
+{"model_size": 4876861, "test_accuracy": 0.1764705816612524, "test_precision": 0.0034602076124567475, "data_subset": 2}
+{"model_size": 4876861, "test_accuracy": 0.17647058236248353, "test_precision": 0.0034602076124567475, "data_subset": 3}
